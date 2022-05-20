@@ -6,4 +6,4 @@
 
 ## Current Projects
 I am currently working through the challenges at cryptopals.com
-I will be posting the python code I write as well as well associated write ups
+I will be posting the python code I write as well as associated write ups
